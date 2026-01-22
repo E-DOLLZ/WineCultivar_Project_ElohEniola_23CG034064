@@ -3,4 +3,4 @@ Matric Number: 23CG034064
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method Used: Joblib
 Live URL of the Hosted Application: https://your-app-on-render.com
-GitHub Repository: https://github.com/E-DOLLZ/WineCultivar_Project_ElohEniola_23CG034064
+GitHub Repository: https://winecultivar-project-eloheniola.onrender.com/
